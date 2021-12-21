@@ -1,0 +1,8 @@
+{
+    "title": "Book Directory API",
+    "description": "The core of the application is a REST API that lets you create, retrieve, update and delete book information. Backend is composed of NodeJS and MongoDB and user authorization is handled by JSON Web Tokens.",
+    "image1": "/images/bookapi1.PNG",
+    "image2": "/images/bookapi2.jpg",
+    "repo": "https://github.com/mARTin-369/Book-Directory-API",
+    "link": "https://book-directory-api.herokuapp.com/"
+  }
